@@ -15,6 +15,9 @@ Full-stack developer | AI Enthusiast | Web Dev<br>Currently deep diving into WEB
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bruhbytes&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
+### Hacktoberfest 2024
+[![An image of @bruhbytes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bruhbytes)](https://holopin.io/@bruhbytes)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
